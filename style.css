@@ -1,0 +1,35 @@
+.navbar-default {
+    background-color: #95A5A6;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.navSecond {
+    margin-top: 2.6%;
+    background-color: rgb(114, 133, 134);
+}
+
+.navSeconda {
+    font-size: 3rem;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: rgb(81, 91, 92);
+}
+
+.navbar-default .navbar-nav>li>a:nth-child(1) {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
