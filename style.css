@@ -1,0 +1,28 @@
+.slide1 {
+    background-image: url(slide_01.png);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    height: 90vh;
+    background-color: rgba(114, 133, 134, 0.5);
+}
+.slide2 {
+    background-image: url(slide_02.png);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    height: 90vh;
+    background-color: rgba(114, 133, 134, 0.5);
+}
+.slide3 {
+    background-image: url(slide_03.png);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    height: 90vh;
+    background-color: rgba(114, 133, 134, 0.5);
+}
+
+.carousel-caption {
+    margin-bottom: 10%;
+}
